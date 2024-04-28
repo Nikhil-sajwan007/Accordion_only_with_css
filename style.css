@@ -41,6 +41,9 @@ ul li label{
     display: flex;
     justify-content: space-between;
     cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
     
   
 }
